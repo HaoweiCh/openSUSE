@@ -1,0 +1,24 @@
+
+=The thing I used now=
+
+  ==Gnome Extensions== 
+    
+    * Caffeine 
+    * Coerflow alt-tab
+    * Drop down terminal
+    * Hide top bar
+    * Pomodoro
+    * User themes
+ 
+  ==Applications==
+    
+    * qBittorrent
+    * 
+
+  ==Themes==
+
+    * Window:       GreyGilouche
+    * GTK+:         Polar-night-master
+    * Icons:        Numix-Circle
+    * Cursor        Pulse-Glass
+    * Shell theme:  Lexis
