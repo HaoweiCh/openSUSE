@@ -1,0 +1,6 @@
+=Custom Shortcuts=
+  
+  Sup + E           File Exploror     *
+  Sup + G           Chrome App list   /opt/google/chrome/chrome --show-app-list
+  Sup + T           Terminology       terminology
+  Sup + V           Improved Vim      gvim

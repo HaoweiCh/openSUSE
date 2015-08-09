@@ -1,0 +1,21 @@
+
+/**************
+ * List boxes *
+ **************/
+EggListBox {
+    background-color: @base;
+    color: @foreground;
+}
+
+.list {
+    background-color: @base;
+    color: @foreground;
+}
+
+.list-row:hover {
+    background-color: @background;
+}
+
+.list-row:selected {
+    background-color: @selection;
+}
